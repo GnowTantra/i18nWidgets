@@ -1,0 +1,67 @@
+# pack-refs with: peeled fully-peeled 
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/idea133
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/idea133-weekly-release
+a6fcef5012f25e0859e90ec832a233be659c6699 refs/remotes/origin/jb-mr1-dev-plus-aosp
+6540e2b38bfdf7342e1fdd9fa82b0586f150834a refs/remotes/origin/jb-mr1.1-dev-plus-aosp
+7025601d0815f37c67f879b82ae8878347f37fbc refs/remotes/origin/jb-mr2-dev
+7025601d0815f37c67f879b82ae8878347f37fbc refs/remotes/origin/jb-mr2-release
+7025601d0815f37c67f879b82ae8878347f37fbc refs/remotes/origin/jb-mr2.0-release
+7025601d0815f37c67f879b82ae8878347f37fbc refs/remotes/origin/jb-mr2.0.0-release
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/kitkat-cts-dev
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/kitkat-dev
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/kitkat-mr1-release
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/kitkat-mr1.1-release
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/kitkat-mr2-release
+3309edccdbc2a92eb03a285abb27c1c1c4a88e43 refs/remotes/origin/kitkat-release
+f9f004a535cf5c36d55f2b102520aac8badfda36 refs/remotes/origin/master
+6540e2b38bfdf7342e1fdd9fa82b0586f150834a refs/remotes/origin/tools_r22
+7025601d0815f37c67f879b82ae8878347f37fbc refs/remotes/origin/tools_r22.2
+3613696b57225111507a3f4263f5fa6937d0bc72 refs/remotes/origin/upstream-mirror
+3d9f80b80be4323c33366bfd91de26d1639a3298 refs/tags/android-4.3.1_r1
+^7025601d0815f37c67f879b82ae8878347f37fbc
+a34b53f69a45722ebc87e56baa232a38c51ed321 refs/tags/android-4.3_r0.9
+^7025601d0815f37c67f879b82ae8878347f37fbc
+44a06106fe1ce906d9de733ab6e751b6836247f9 refs/tags/android-4.3_r0.9.1
+^7025601d0815f37c67f879b82ae8878347f37fbc
+da0067c5c9d7c080a36ad9f01d5fcdf2047587f5 refs/tags/android-4.3_r1
+^7025601d0815f37c67f879b82ae8878347f37fbc
+5398265b7b68684aa3ad682db3071df56dfbd629 refs/tags/android-4.3_r1.1
+^7025601d0815f37c67f879b82ae8878347f37fbc
+01ac2add258afc663504b664a8764a8eb258c151 refs/tags/android-4.3_r2
+^7025601d0815f37c67f879b82ae8878347f37fbc
+c9354c605264168de2523ab158067088abde719b refs/tags/android-4.3_r2.1
+^7025601d0815f37c67f879b82ae8878347f37fbc
+3656e17a918e511fe1df1e796c12b68770255969 refs/tags/android-4.3_r2.2
+^7025601d0815f37c67f879b82ae8878347f37fbc
+c2ea11f9f11346aa065bc2302898df8d717e825a refs/tags/android-4.3_r2.3
+^7025601d0815f37c67f879b82ae8878347f37fbc
+4a50fa86bcd89524d84b6656d5f82bfe06484ead refs/tags/android-4.3_r3
+^7025601d0815f37c67f879b82ae8878347f37fbc
+b78f562a3e827c07f363faae6eee1924e196391f refs/tags/android-4.3_r3.1
+^7025601d0815f37c67f879b82ae8878347f37fbc
+ee92fe75e5a7d5b255f72db38c26b9b8dc433c30 refs/tags/android-4.4.1_r1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+6e3a3edf0a9ae09a7b92637c2a7131df0bde4760 refs/tags/android-4.4.2_r1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+321aa6e8d47f9e025c687cfbd4ce81d7dea09923 refs/tags/android-4.4.2_r2
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+9d7a157a1a3785679d5a7895d9cd1556e43d804b refs/tags/android-4.4.3_r1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+dd709d1886be5744d541a44cac9aa09b8d5c4856 refs/tags/android-4.4.3_r1.1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+50c977c8bcbba6f01a9e016a16fd804bf1d3f855 refs/tags/android-4.4_r0.7
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+3f5e8f3ce49ae3e28471332ab5387a2a67be7886 refs/tags/android-4.4_r0.8
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+f640fe415b9c6c54cc0910bd14ed35d8f7d5f64b refs/tags/android-4.4_r0.9
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+6a818782d978935f8e84eaa12f4cdda73aac3304 refs/tags/android-4.4_r1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+7960bdd1a4f10aa13fbc56513bdc11f5be711b3f refs/tags/android-4.4_r1.1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+8370afb728645efcc778ceb978b4291bd3ed0e28 refs/tags/android-4.4_r1.2
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+a3ab56f8386cc62ccc6beac2068c8064c7b1edac refs/tags/android-cts-4.4_r1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
+5196001097ae3d05d3ca5c159f1572a31645ad35 refs/tags/android-sdk-4.4.2_r1
+^3309edccdbc2a92eb03a285abb27c1c1c4a88e43
