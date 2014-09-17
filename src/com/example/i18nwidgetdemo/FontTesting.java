@@ -9,7 +9,6 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.content.res.AssetManager;
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -27,11 +26,11 @@ public class FontTesting extends Activity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.font_test_layout);
 
-    Typeface tf = Typeface.createFromAsset(getAssets(), "shruti.ttf");
+    Typeface tf = Typeface.createFromAsset(getAssets(), "Lohit-Gujarati.ttf");
     AssetManager am = getAssets();
     InputStream inputStream = null;
     try {
-      inputStream = am.open("shruti.ttf");
+      inputStream = am.open("Lohit-Gujarati.ttf");
     } catch (IOException e) {
       // TODO Auto-generated catch block
       e.printStackTrace();
@@ -43,21 +42,18 @@ public class FontTesting extends Activity {
     String fontPath = font.getAbsolutePath();
     tv1.setFontPath(fontPath);
     // tv1.setTextSize();
-    //tv1.setTextColor(0xFF0000FF);
+    // tv1.setTextColor(0xFF0000FF);
 
-    
-    tv1.setText("Text : " + "ગુજરાતી ટેક્ટ યશસ્વી.");
+    tv1.setText("ગુજરાતી ટેક્ટ યશસ્વી.");
     cont = (Button) findViewById(R.id.button1);
     cont.setOnClickListener(new OnClickListener() {
 
-     /* @Override
+      @Override
       public void onClick(View v) {
         // TODO Auto-generated method stub
-        Intent in = new Intent(FontTesting.this, ExtraActivity.class);
-        startActivity(in);
+        // Do nothing
       }
-     */
-	
+
     });
   }
 
